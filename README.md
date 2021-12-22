@@ -1,1 +1,2 @@
-### MNIST-Handwritten-Digit-Classification
+## MNIST-Handwritten-Digit-Classification
+The MNIST (Modified National Institute of Standards and Technology database)
